@@ -1,5 +1,8 @@
 const oCuteAnimals = require("cute-animals");
 
+const doodad = require("/opt/nodejs/helpers");
+console.log(doodad);
+
 const oDate = new Date();
 const oDaysOfWeek = [
   "Sunday",
